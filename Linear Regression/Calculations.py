@@ -1,6 +1,6 @@
 
 
-"""
+
 # *********************************************
 # Absolute Trick
 p = 0
@@ -75,6 +75,6 @@ np_sq_errors = (np.array(y_points) - np.array(predictions))**2
 SDM = np_sq_errors.sum() / (2 * len(np_sq_errors))
 
 print(SDM) # Awesome Sauce!
-
+"""
 
 
