@@ -46,5 +46,10 @@ $\frac{\sum_{i=1}^m|y-\hat{y}|}{m}=$ *Mean Absolute Deviations (Errors)*
 
 ## Mean Squared Deviations (Error)
 
+$\frac{1}{2}(y-\hat{y})^2=$ Squared Error
+
 $\frac{\sum_{i=1}^{m}(y-\hat{y})^2}{2m}=$ *Mean Squared Deviations (Errors)*
+
+
+## Derivative of the Error with Respect to the prediction
 
