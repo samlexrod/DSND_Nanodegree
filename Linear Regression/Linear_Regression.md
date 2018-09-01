@@ -13,7 +13,7 @@ $q=$ *Vertical Coordinate y*
 
 ## Absolute Trick
 
-$y=mx+b$
+$$y=mx+b$$
 
 $y=(m+p\alpha)x+b\alpha$
 
