@@ -57,3 +57,8 @@ M = $m$T
 
 $\frac{∂}{∂m}Error=-(y-\hat{y})x=$ *Derrivative*
 
+
+## Absolute Error vs. Squared Errors
+
+> Mean Absolute Error is the same on each line. However, Mean Squared Errors are minimized as we minimize the least square line.
+
